@@ -1,0 +1,19 @@
+{
+  "id": 147,
+  "name": "Iluminador LED",
+  "description": "Painel LED ajustável para iluminação de estúdio e externas.",
+  "data": {
+    "price": 650.00,
+    "category": "iluminação"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 456,
+      "relationship": "COMPRADO_JUNTO"
+    }
+  ]
+}

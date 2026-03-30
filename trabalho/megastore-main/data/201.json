@@ -1,0 +1,15 @@
+{
+  "id": 201,
+  "name": "Gimbal Estabilizador",
+  "description": "Estabilizador para vídeos suaves e profissionais.",
+  "data": {
+    "price": 1800.0,
+    "category": "acessórios"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    }
+  ]
+}

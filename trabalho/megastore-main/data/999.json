@@ -1,0 +1,19 @@
+{
+  "id": 999,
+  "name": "Lente 24-70mm f/2.8",
+  "description": "Lente zoom profissional versátil para diversas situações.",
+  "data": {
+    "price": 4500.00,
+    "category": "lentes"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 888,
+      "relationship": "ALTERNATIVA_PARA"
+    }
+  ]
+}

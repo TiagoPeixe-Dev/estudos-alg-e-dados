@@ -1,0 +1,19 @@
+{
+  "id": 852,
+  "name": "Microfone Shotgun",
+  "description": "Microfone direcional para captação de áudio profissional.",
+  "data": {
+    "price": 1100.00,
+    "category": "áudio"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 963,
+      "relationship": "COMPRADO_JUNTO"
+    }
+  ]
+}

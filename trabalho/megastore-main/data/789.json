@@ -1,0 +1,19 @@
+{
+  "id": 789,
+  "name": "Cartão de Memória 128GB",
+  "description": "Cartão SD de alta velocidade para gravação 4K.",
+  "data": {
+    "price": 320.00,
+    "category": "armazenamento"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 321,
+      "relationship": "ALTERNATIVA_PARA"
+    }
+  ]
+}

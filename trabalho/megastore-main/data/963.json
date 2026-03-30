@@ -1,0 +1,19 @@
+{
+  "id": 963,
+  "name": "Gravador de Áudio",
+  "description": "Gravador portátil de alta qualidade para produção de vídeo.",
+  "data": {
+    "price": 2200.00,
+    "category": "áudio"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 852,
+      "relationship": "COMPRADO_JUNTO"
+    }
+  ]
+}

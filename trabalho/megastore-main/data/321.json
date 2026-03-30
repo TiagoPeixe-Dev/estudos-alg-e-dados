@@ -1,0 +1,19 @@
+{
+  "id": 321,
+  "name": "Cartão de Memória 256GB",
+  "description": "Cartão SD de alta capacidade para sessões prolongadas.",
+  "data": {
+    "price": 580.00,
+    "category": "armazenamento"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 789,
+      "relationship": "ALTERNATIVA_PARA"
+    }
+  ]
+}

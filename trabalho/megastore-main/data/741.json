@@ -1,0 +1,19 @@
+{
+  "id": 741,
+  "name": "Bolsa para Câmera",
+  "description": "Bolsa acolchoada com compartimentos para equipamento fotográfico.",
+  "data": {
+    "price": 280.00,
+    "category": "acessórios"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 456,
+      "relationship": "COMPRADO_JUNTO"
+    }
+  ]
+}

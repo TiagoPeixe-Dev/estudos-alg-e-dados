@@ -1,0 +1,23 @@
+{
+  "id": 456,
+  "name": "Tripé de Carbono",
+  "description": "Tripé leve e resistente para câmeras profissionais.",
+  "data": {
+    "price": 850.00,
+    "category": "acessórios"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 741,
+      "relationship": "COMPRADO_JUNTO"
+    },
+    {
+      "to_id": 147,
+      "relationship": "COMPRADO_JUNTO"
+    }
+  ]
+}

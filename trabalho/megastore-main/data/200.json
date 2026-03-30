@@ -1,0 +1,15 @@
+{
+  "id": 200,
+  "name": "Drone 4K Pro",
+  "description": "Drone profissional com gravação em 4K e estabilização avançada.",
+  "data": {
+    "price": 8500.0,
+    "category": "drones"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    }
+  ]
+}

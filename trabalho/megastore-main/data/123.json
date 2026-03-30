@@ -1,0 +1,65 @@
+{
+  "id": 123,
+  "name": "Câmera A7S",
+  "description": "Câmera profissional full-frame, ótima para vídeos.",
+  "data": {
+    "price": 15000.00,
+    "category": "câmeras"
+  },
+  "edges": [
+    {
+      "to_id": 888,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 999,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 456,
+      "relationship": "COMPRADO_JUNTO"
+    },
+    {
+      "to_id": 789,
+      "relationship": "COMPRADO_JUNTO"
+    },
+    {
+      "to_id": 741,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 852,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 963,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 321,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 147,
+      "relationship": "COMPATIVEL_COM"
+    }
+    ,
+    {
+      "to_id": 200,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 201,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 202,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 203,
+      "relationship": "COMPRADO_JUNTO"
+    }
+        
+  ]
+}

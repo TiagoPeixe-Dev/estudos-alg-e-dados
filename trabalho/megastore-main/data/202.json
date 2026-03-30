@@ -1,0 +1,15 @@
+{
+  "id": 202,
+  "name": "Monitor Externo 7\"",
+  "description": "Monitor portátil para gravações com maior precisão.",
+  "data": {
+    "price": 2200.0,
+    "category": "acessórios"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    }
+  ]
+}

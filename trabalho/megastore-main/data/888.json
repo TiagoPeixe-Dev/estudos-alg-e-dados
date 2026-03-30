@@ -1,0 +1,19 @@
+{
+  "id": 888,
+  "name": "Lente 50mm f/1.8",
+  "description": "Lente clara e versátil para retratos.",
+  "data": {
+    "price": 1200.00,
+    "category": "lentes"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPATIVEL_COM"
+    },
+    {
+      "to_id": 999,
+      "relationship": "ALTERNATIVA_PARA"
+    }
+  ]
+}

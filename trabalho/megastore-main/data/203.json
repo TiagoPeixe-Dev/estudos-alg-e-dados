@@ -1,0 +1,15 @@
+{
+  "id": 203,
+  "name": "Bateria Extra NP-FZ100",
+  "description": "Bateria adicional para câmeras Sony.",
+  "data": {
+    "price": 450.0,
+    "category": "energia"
+  },
+  "edges": [
+    {
+      "to_id": 123,
+      "relationship": "COMPRADO_JUNTO"
+    }
+  ]
+}
